@@ -152,7 +152,7 @@ function Portfolio() {
                   </li>
 
                   <li>
-                    <a href="/pdf/DAP.pdf" rel="noreferrer" target="_blank" class="group relative block bg-black">
+                    <Link href="/pdf/DAP.pdf" rel="noreferrer" target="_blank" class="group relative block bg-black">
                       <img
                         alt="Developer"
                         src="/images/web5.PNG"
@@ -166,14 +166,14 @@ function Portfolio() {
                         <div class="mt-64">
                           <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                             <div class="text-sm text-white">
-                              주요통신기반시스템 취약점 가이드 2017을 기준으로 Windows Sever 와 Linux의 서버의 취약점을 진단하는 웹사이트 입니다.
+                              주요통신기반시스템 취약점 가이드를 기준으로 서버의 취약점을 진단하는 웹사이트 입니다.
                               <br />
                               <p className="text-pink-400 font-bold">사용언어: Python, MongoDB, pyQT</p>
                             </div>
                           </div>
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
